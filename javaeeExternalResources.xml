@@ -7,5 +7,6 @@
     <resource url="http://schema.phpunit.de/6.1/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.2/system/extResources/11964980_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/6.2/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.2/system/extResources/195001_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/6.3/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.2/system/extResources/ee9c5682_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/6.5/phpunit.xsd" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/cba26384_phpunit.xsd" />
   </component>
 </application>
