@@ -8,6 +8,7 @@
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="foundry" type="PHP" />
+      <mapping pattern="adv" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".dist" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
