@@ -1,0 +1,12 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="alternativeKeymap" />
+    <option name="hideDelay" value="3000" />
+    <option name="horizontalAlignment" value="RIGHT" />
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Default copy" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>
