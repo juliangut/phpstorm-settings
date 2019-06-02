@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AbstractAggregateRootTest.testInvalidReconstitute'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AbstractAggregateRootTest.testInvalidReconstitute'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'InMemoryEventStoreTest.testStore'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -30,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -39,6 +47,14 @@
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Force Step Into">
+        <Item>
+          <IdeaActionID>ForceStepInto</IdeaActionID>
+          <ShortCut>'Alt+Shift+F7'</ShortCut>
+          <Description>Force Step Into</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -62,7 +78,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -70,7 +86,15 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>1</Count>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AbstractAggregateRepositoryTest.testAggregateRootFromSnapshot'">
@@ -94,7 +118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
     </option>
@@ -109,6 +133,14 @@
         <Item>
           <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
           <Description>Key Promoter X</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AbstractAggregateRootTest.testInvalidReconstitute'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AbstractAggregateRootTest.testInvalidReconstitute'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
