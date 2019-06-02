@@ -129,14 +129,6 @@
           <Count>5</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'AbstractAggregateRepositoryTest.testInvalidAggregateRootFromSnapshot'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'AbstractAggregateRepositoryTest.testInvalidAggregateRootFromSnapshot'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'AbstractAggregateRootTest.testInvalidEventApply'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -197,6 +189,14 @@
         <Item>
           <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
           <Description>Key Promoter X</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AbstractAggregateRepositoryTest.testInvalidAggregateRootFromSnapshot'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AbstractAggregateRepositoryTest.testInvalidAggregateRootFromSnapshot'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AbstractAggregateRootTest.testInvalidReconstitute'">
