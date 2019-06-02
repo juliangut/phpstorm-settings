@@ -102,7 +102,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -110,7 +110,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -118,7 +118,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>25</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AbstractAggregateRepositoryTest.testAggregateRootFromSnapshot'">
@@ -166,7 +166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'InMemoryEventStoreTest.testStore'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InMemoryEventStoreTest.testStoreDuplicatedEvent'">
@@ -175,14 +175,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'InMemoryEventStoreTest.testStoreDuplicatedEvent'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'Ctrl+F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>26</Count>
         </Item>
       </Statistic>
     </option>
@@ -213,6 +205,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AbstractAggregateRootTest.testInvalidReconstitute'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>29</Count>
         </Item>
       </Statistic>
     </option>
