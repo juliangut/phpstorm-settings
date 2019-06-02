@@ -35,6 +35,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Directory">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <Description>Directory</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Key Promoter X">
         <Item>
           <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
