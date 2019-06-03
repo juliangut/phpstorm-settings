@@ -102,7 +102,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -110,7 +110,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -118,7 +118,15 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>30</Count>
+          <Count>36</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AbstractAggregateEventTest.testNoUpgradeVersion'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AbstractAggregateEventTest.testNoUpgradeVersion'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AbstractAggregateRepositoryTest.testAggregateRootFromSnapshot'">
@@ -142,6 +150,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AbstractAggregateRootTest.testNoApplyHandler'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AbstractAggregateRootTest.testRecordedAggregateEvents'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AbstractAggregateRootTest.testRecordedAggregateEvents'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
