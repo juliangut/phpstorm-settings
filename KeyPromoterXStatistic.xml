@@ -70,7 +70,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -78,7 +78,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>90</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SMSCounterTest.testUnicode'">
@@ -102,7 +102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SMSCounterTest.testUnicodeEmoji'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
     </option>
