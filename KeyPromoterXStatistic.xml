@@ -25,14 +25,6 @@
           <Count>18</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration or Usages">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B'</ShortCut>
-          <Description>Declaration or Usages</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Edit Source">
         <Item>
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
@@ -123,6 +115,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Key Promoter X">
         <Item>
           <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
