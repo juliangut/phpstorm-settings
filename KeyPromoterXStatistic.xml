@@ -25,6 +25,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SMSCounterTest.testUnicodeEmojiSingleMessage'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Mayús+F9'</ShortCut>
+          <Description>Debug 'SMSCounterTest.testUnicodeEmojiSingleMessage'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit Source">
         <Item>
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
@@ -54,7 +62,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -78,7 +86,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>140</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SMSCounterTest.testUnicode'">
@@ -102,7 +110,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SMSCounterTest.testUnicodeEmoji'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SMSCounterTest.testUnicodeEmojiSingleMessage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SMSCounterTest.testUnicodeEmojiSingleMessage'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SMSCounterTest.testUnicodeEncodingAndLength'">
