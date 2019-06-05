@@ -113,6 +113,14 @@
           <Count>24</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SMSCounterTest.testUnicodeEmojiMultiPartMessage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SMSCounterTest.testUnicodeEmojiMultiPartMessage'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SMSCounterTest.testUnicodeEmojiSingleMessage'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
