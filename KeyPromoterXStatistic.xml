@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AbstractAggregateRepositoryTest.testAggregateRootFromSnapshot'">
@@ -110,7 +110,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>30</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -118,7 +118,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -126,7 +126,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>92</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AbstractAggregateEventTest.testNoUpgradeVersion'">
@@ -215,6 +215,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'InMemoryEventStoreTest.testStoreEmpty'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InMemorySnapshotStoreTest.testStore'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'InMemorySnapshotStoreTest.testStore'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
