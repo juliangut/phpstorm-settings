@@ -235,6 +235,14 @@
           <Count>26</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Directory">
         <Item>
           <IdeaActionID>NewDir</IdeaActionID>
