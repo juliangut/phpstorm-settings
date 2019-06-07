@@ -185,6 +185,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AbstractEventTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AbstractEventTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AbstractEventTest.testCreation'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AbstractEventTest.testCreation'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InMemoryEventStoreTest.testLoadFrom'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -267,6 +283,14 @@
         <Item>
           <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
           <Description>Key Promoter X</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AbstractEventTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AbstractEventTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AbstractAggregateRepositoryTest.testInvalidAggregateRootFromSnapshot'">
