@@ -249,6 +249,22 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'JsonEventSerializerTest.testDeserialize'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'JsonEventSerializerTest.testDeserialize'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'NativeEventSerializerTest.testSerialize'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'NativeEventSerializerTest.testSerialize'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Annotate">
