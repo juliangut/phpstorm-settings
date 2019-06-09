@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AbstractAggregateRepositoryTest.testAggregateRootFromSnapshot'">
@@ -39,6 +39,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AbstractAggregateRootTest.testInvalidReconstitute'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AbstractScalarDTOTest.testAcceptDTO'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AbstractScalarDTOTest.testAcceptDTO'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'InMemoryEventStoreTest.testLoadFrom'">
@@ -215,6 +223,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AbstractEventTest.testCreation'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AbstractScalarDTOTest.testAcceptDTO'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AbstractScalarDTOTest.testAcceptDTO'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InMemoryEventStoreTest.testLoadFrom'">
