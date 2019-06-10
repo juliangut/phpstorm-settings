@@ -5,10 +5,14 @@
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl plus" />
   </action>
   <action id="ExpandDocComments">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
 </keymap>
