@@ -18,8 +18,10 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="patterns" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="aof" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.dist" type="XML" />
