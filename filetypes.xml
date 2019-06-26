@@ -9,13 +9,13 @@
       <mapping pattern="foundry" type="PHP" />
       <mapping pattern="Makefile-prod" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".dist" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile-dev" type="PLAIN_TEXT" />
+      <mapping pattern=".dist" type="PLAIN_TEXT" />
       <mapping pattern="proprietary" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="build-vpn2" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile-dev" type="PLAIN_TEXT" />
       <mapping ext="stdout" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="patterns" type="PLAIN_TEXT" />
