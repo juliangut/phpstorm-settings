@@ -153,6 +153,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'EventMetadataBehaviourTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
