@@ -1,6 +1,7 @@
 <application>
   <component name="PresentationAssistant">
     <option name="alternativeKeymap" />
+    <option name="hideDelay" value="2000" />
     <option name="horizontalAlignment" value="RIGHT" />
     <option name="mainKeymap">
       <KeymapDescription>
