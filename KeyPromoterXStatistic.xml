@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AbstractAggregateRepositoryTest.testAggregateRootFromSnapshot'">
@@ -71,6 +71,14 @@
           <ShortCut>'Mayús+F9'</ShortCut>
           <Description>Debug 'AppTest.testHandleExceptionFromError'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CallableStrategy.php'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'CallableStrategy.php'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'InMemoryEventStoreTest.testLoadFrom'">
