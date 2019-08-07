@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="docker-entrypoint" type="Bash" />
-      <mapping pattern="build" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.env.dist" type="Ini" />
@@ -13,10 +11,10 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="stdout" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="patterns" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="stdout" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="aof" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
@@ -32,6 +30,8 @@
       <removed_mapping pattern="build-vpn2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile-dev" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Makefile-*" type="Makefile" />
+      <mapping pattern="build" type="Bash" />
+      <mapping pattern="docker-entrypoint" type="Bash" />
     </extensionMap>
   </component>
 </application>
