@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src/api [api]'" />
-    <option name="defaultScopeName" value="Directory '.../src/api [api]'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/api [api]'" />
+    <option name="customScope" value="Directory '.../src/api/src [api]'" />
+    <option name="defaultScopeName" value="Directory '.../src/api/src [api]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/api/src [api]'" />
   </component>
 </application>
