@@ -155,4 +155,5 @@
     </option>
   </inspection_tool>
   <inspection_tool class="StaticClosureCanBeUsedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="VariableFunctionsUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>
