@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src'" />
-    <option name="defaultScopeName" value="Directory '.../src'" />
+    <option name="customScope" value="Directory '.../src/_common'" />
+    <option name="defaultScopeName" value="Directory '.../src/_common'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/_common'" />
   </component>
 </application>
