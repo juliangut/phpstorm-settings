@@ -3,7 +3,7 @@
     <property name="created">2019-11-25T11:18:40</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-11-25T11:38:59</property>
+    <property name="modified">2019-11-26T09:00:58</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -655,6 +655,12 @@
     <option name="GHERKIN_TAG">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4b5056" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
