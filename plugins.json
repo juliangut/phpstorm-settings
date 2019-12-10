@@ -1,0 +1,279 @@
+{
+  "plugins": [
+    {
+      "pluginId": "NEON support",
+      "pluginName": "NEON support",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.jetbrains.php"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.daylerees.rainglow",
+      "pluginName": "Rainglow Color Schemes",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.dryabov.phpStorm.phpregexp",
+      "pluginName": "PHP RegExp Support",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.kalessil.phpStorm.phpInspectionsEA",
+      "pluginName": "Php Inspections (EA Extended)",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.mallowigi",
+      "pluginName": "Atom Material Icons",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.samdark.intellij-visual-studio-code-dark-plus",
+      "pluginName": "Visual Studio Code Dark Plus Theme",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.thanosp.phpstorm.inheritdoc",
+      "pluginName": "PHP inheritDoc helper",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "dark.flat.theme",
+      "pluginName": "Dark Flat Theme",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "de.espend.idea.php.annotation",
+      "pluginName": "PHP Annotations",
+      "downloadUrl": "https://github.com/Haehnchen/idea-php-annotation-plugin",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform",
+        "de.espend.idea.php.toolbox"
+      ],
+      "optionalDependencyPluginIds": [
+        "de.espend.idea.php.toolbox"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "de.espend.idea.php.phpunit",
+      "pluginName": "PHPUnit Enhancement",
+      "downloadUrl": "https://github.com/Haehnchen/idea-php-phpunit-plugin",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "fr.adrienbrault.idea.symfony2plugin",
+      "pluginName": "Symfony Support",
+      "downloadUrl": "https://github.com/Haehnchen/idea-php-symfony2-plugin",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.twig",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform",
+        "org.jetbrains.plugins.yaml",
+        "de.espend.idea.php.annotation",
+        "com.jetbrains.php.dql",
+        "de.espend.idea.php.toolbox",
+        "com.jetbrains.plugins.webDeployment"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.jetbrains.php.dql",
+        "de.espend.idea.php.toolbox",
+        "com.jetbrains.plugins.webDeployment"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "izhangzhihao.rainbow.brackets",
+      "pluginName": "Rainbow Brackets",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "org.jetbrains.kotlin",
+        "JavaScript",
+        "Dart",
+        "org.intellij.groovy",
+        "com.intellij.modules.rider"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.kotlin",
+        "JavaScript",
+        "Dart",
+        "org.intellij.groovy",
+        "com.intellij.modules.rider"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "lv.midiana.misc.phpstorm-plugins.deep-keys",
+      "pluginName": "deep-assoc-completion",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform",
+        "com.intellij.database",
+        "com.jetbrains.twig"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.jetbrains.twig"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "net.king2500.plugins.PhpAdvancedAutoComplete",
+      "pluginName": "PHP Advanced AutoComplete",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.psliwa.idea.composer",
+      "pluginName": "PHP composer.json support",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.platform",
+        "com.jetbrains.php"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.toml.lang",
+      "pluginName": "Toml",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "ru.adelf.idea.dotenv",
+      "pluginName": ".env files support",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.platform",
+        "com.jetbrains.php",
+        "com.intellij.modules.ruby",
+        "com.intellij.modules.python",
+        "JavaScript",
+        "org.jetbrains.plugins.go",
+        "Docker",
+        "org.jetbrains.plugins.yaml"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.jetbrains.php",
+        "com.intellij.modules.ruby",
+        "com.intellij.modules.python",
+        "JavaScript",
+        "org.jetbrains.plugins.go",
+        "Docker",
+        "org.jetbrains.plugins.yaml"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "ru.vkurdin.idea.php.lambdafolding",
+      "pluginName": "PHP Lambda Folding",
+      "downloadUrl": "https://github.com/vkurdin/idea-php-lambda-folding",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.jetbrains.php",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "zielu.gittoolbox",
+      "pluginName": "GitToolBox",
+      "downloadUrl": "https://github.com/zielu/GitToolBox",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.platform",
+        "Git4Idea",
+        "com.intellij.modules.java",
+        "gr.jchrist.gitextender"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.java",
+        "gr.jchrist.gitextender"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    }
+  ]
+}
