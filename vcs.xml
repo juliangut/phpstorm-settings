@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="julian_instasent" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="julian@instasent.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
