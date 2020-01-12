@@ -23,6 +23,7 @@
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="patterns" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.dist" type="XML" />
       <mapping pattern="build" type="Bash" />
     </extensionMap>
