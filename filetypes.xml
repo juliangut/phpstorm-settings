@@ -1,20 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="build" type="Bash" />
       <mapping pattern="*.env.dist" type="Ini" />
       <mapping pattern="*.php.dist" type="PHP" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="foundry" type="PHP" />
-      <mapping pattern=".dist" type="PLAIN_TEXT" />
-      <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="build-vpn2" type="PLAIN_TEXT" />
       <mapping pattern="proprietary" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="build-vpn-2" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".dist" type="PLAIN_TEXT" />
+      <mapping pattern="phpstan" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="stdout" type="PLAIN_TEXT" />
       <mapping ext="aof" type="PLAIN_TEXT" />
@@ -24,7 +26,6 @@
       <mapping ext="patterns" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.dist" type="XML" />
-      <mapping pattern="build" type="Bash" />
     </extensionMap>
   </component>
 </application>
