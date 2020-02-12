@@ -5,6 +5,7 @@
       <mapping pattern="Makefile-*" type="Makefile" />
       <mapping pattern="*.php.dist" type="PHP" />
       <mapping pattern="*.php.bak" type="PHP" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="foundry" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
